@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739510351433",
+    "project_id": "tussi-shop-998d0",
+    "storage_bucket": "tussi-shop-998d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739510351433:android:a5c418908b2fda03d57198",
+        "android_client_info": {
+          "package_name": "com.example.tussi_shope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739510351433-sq5cafeff0393j6gh1s2er7iddohn0ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgQm5uwigolYxCC4ELkeG3lk-WUhVSr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739510351433-sq5cafeff0393j6gh1s2er7iddohn0ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
